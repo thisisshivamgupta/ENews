@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ENews</string>
+    <string name="otp_verification">OTP VERIFICATION</string>
+    <string name="we_will_send_you_an_otp_to_entered_mobile_number">We will send you an OTP to entered mobile number!</string>
+    <string name="api_key">447e7005ed284d2682cc9e4c72282734</string>
+    <string name="enter_mobile_number">Enter Mobile Number</string>
+    <string name="please_enter_the_otp_sent_to_you">Please Enter the OTP sent to you</string>
+    <string name="business">business</string>
+    <string name="entertainment">entertainment</string>
+    <string name="general">general</string>
+    <string name="health">health</string>
+    <string name="science">science</string>
+    <string name="sports">sports</string>
+    <string name="technology">technology</string>
+</resources>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "473367570762",
+    "project_id": "enews-e3ed1",
+    "storage_bucket": "enews-e3ed1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:473367570762:android:39514bb10bf490246039b3",
+        "android_client_info": {
+          "package_name": "com.thisisshivamgupta.enews"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "473367570762-fad5u9gedhu2utn8v244hg51fo60e8m0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhxPDq688i2D0R7XfaPnDbDIeLmchU-G4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "473367570762-fad5u9gedhu2utn8v244hg51fo60e8m0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
